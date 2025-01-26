@@ -36,6 +36,7 @@ To download the dependencies for the frontend and backend, run:
 pipenv install
 pipenv shell
 npm install --prefix client
+install flask-restful
 ```
 
 You can run your Flask API on [`localhost:5555`](http://localhost:5555) by
